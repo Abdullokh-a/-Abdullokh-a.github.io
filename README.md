@@ -1,2 +1,3 @@
-# -Abdullokh-a.github.io
-мой первый опубликованный сайт
+# Abdullokh Odilov
+мои домашние задания
+
